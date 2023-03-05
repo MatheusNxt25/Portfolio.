@@ -2,6 +2,7 @@ import WorkIm from '../assets/projects/workImg.png'
 import RealEst from '../assets/projects/realestate.jpg'
 import List from '../assets/projects/List.jpg'
 import Digital from '../assets/projects/digital.png'
+
 export const data=[
     {
         id:1,
