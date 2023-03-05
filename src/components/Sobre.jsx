@@ -17,6 +17,7 @@ const Sobre = () => {
                   <p>Olá, prazer em conhecê-lo. Por favor, dê uma olhada ao redor.</p>
                 </div>
                 <div>
+                  
                   <p> * Sou apaixonado por construir um excelente software que melhora a vida das pessoas ao meu redor. <br></br>* Estou me formando em Análise e Desenvolvimento de Sistema, pela INSTED.<br></br>* Trabalho atualmente como auxiliar de redes na DIGITALNET.</p>  
                 </div>
               </div>
